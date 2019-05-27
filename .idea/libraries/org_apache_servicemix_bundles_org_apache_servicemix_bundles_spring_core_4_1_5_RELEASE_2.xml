@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-core:4.1.5.RELEASE_2" type="repository">
+    <properties maven-id="org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-core:4.1.5.RELEASE_2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.servicemix.bundles.spring-core-4.1.5.RELEASE_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.2.0.M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.servicemix.bundles.spring-core-4.1.5.RELEASE_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
